@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 
 ---
-### Files Submitted & Code Quality
+### Files Included & Standards followed for Code Quality
 
 #### 1. This repository includes all required files and can be used to run the simulator in autonomous mode
 
